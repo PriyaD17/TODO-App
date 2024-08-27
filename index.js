@@ -49,3 +49,5 @@ res.json({
     msg: "Todo marked as completed!"
 })
 })
+
+app.listen(3000);
